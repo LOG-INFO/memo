@@ -110,14 +110,16 @@ Getty 재단에서 지은 미술관 + 정원이다. 무료이지만 홈페이지
 미국 대학생활이 부러워졌다. 석사를 해보는 것도 괜찮을지도……?
 
 #### Hollywood Walk of Fame *
-Hollywood 명예의 거리에서 길을 건너다가 저 멀리 산에 있는 Hollywood 사인을 보고 사진을 찍었다.</br>
-이후 근처 카페에 들어가서 F2P Allhands 미팅에 참석했다.
+Hollywood 명예의 거리에서 길을 건너는데 저 멀리 산에 있는 Hollywood 사인이 보였다.</br>
+<img width="513" alt="image" src="https://github.com/user-attachments/assets/4f8f33c7-86dd-41ba-8f47-9f6b31a377fd">
 
 #### Grififth Obervatory *
 Uber를 타고 그리피스 천문대에 방문했다. 원래는 Dash Bus를 타려 했지만, 버스 간격이 길어 그냥 Uber를 탔다. Uber의 지도가 계속 막힌 길을 알려줘서 한참을 돌아갔다.</br>
 산 위에 위치한 그리피스 천문대에서는 LA 야경이 전부 내려다 보였고, 별도 많이 보여서 매우 아름다웠다.</br>
 산 위여서 그런지 바람도 굉장히 많이 불고 많이 추웠다. 꼭꼭 얇은 옷 여러개 + 외투를 챙기는 것을 추천한다.</br>
 내려올 때는 Dash Bus를 타고 내려왔다
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/79701ebf-c371-4984-be77-93e9adadc653">
+
 
 ### Day 4 - 11/04 (Mon)
 
@@ -129,14 +131,17 @@ Hertz를 예약할 때 보험은 모두 넣고, 거리제한이 없는지 꼭 �
 Android Auto나 Apple CarPlay가 되는지 꼭 확인하자. 없는 것들이 있다. (일본차 같은 경우 Bluetooth Android Auto는 안되지만 유선 Android Auto는 되는 경우가 있으니 유선으로도 확인해보자)</br>
 차 상태 동영상을 꼭 찍어두자. 반납할 때 원래 있던 기스에 대해 직원이 물어봤는데, 미리 찍어둔 사진을 보여주어서 추가 요금 청구를 면할 수 있었다.</br>
 10000 mile 주행한 나름 신차를 받아서 기분이 좋았다. 모델은 쉐보레 Malibu를 받았다.
+<img width="624" alt="image" src="https://github.com/user-attachments/assets/7c5026e0-c098-4eac-beb3-f2c7582a9258">
 
 #### Desert Hill Premium Oulet *
 Joshua Tree 국립공원 가는 길에 들린 아울렛이다. 여러 브랜드가 입점해 있는데, 프리미엄 아울렛 답게 잘 꾸며놔서 방문할만 하다.</br>
 태훈님이 주신 Polo 20% 할인 쿠폰이 있어서 친구와 셔츠를 한 장씩 구매했다.
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/c4687b4e-0a2a-436f-9ebd-9382bd56a184">
 
 #### In-N-Out Burger *
 미국 와서 외식 물가에 매우 놀랐었는데, 인앤아웃버거는 놀란 마음을 진정시켜주었다. 
 국내 버거킹보다 쪼끔 더 비싼 가격에 맛있는 햄버거를 먹을 수 있었다. 더블더블버거 추천! 이후에 인앤아웃에 여러번 갔다.
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/f5a878a1-b881-4b18-8978-b75c0f8e73b1">
 
 #### Joshua Tree National Park *
 원래 들리지 않고 바로 Las Vegas에 가려했지만, 태훈님의 추천으로 들려보았다.</br>
@@ -145,6 +150,8 @@ Visitor Center에 들려서 입장권을 구입하면 된다. 입장권은 $30�
 특히 **Keys view(*)** 라는 곳은 조슈아트리 국립공원이 내려다보이는데, 일몰 때 가서 일몰 보는 것을 강력히 추천한다.</br>
 미국의 국립공원은 매우매우 넓기 때문에 중간중간 통신이 안되는 경우가 많다.</br>
 들어 가기 전에 주유를 만땅으로 채우고 물과 비상식량을 구해 가는 것을 추천한다. (차가 꽤 다녀서 크게 걱정할 건 없지만, 마음의 안정을 위해)
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/649c4e17-83c3-4be6-a336-0b2c20c34166">
+
 
 #### Mojave Desert *
 Joshua Tree 국립공원을 다 구경하고 Las Vegas를 가기 위해 두가지 갈림길이 있다. 모하비 사막을 건너는 길과 국도(?)로 가는길.</br>
@@ -152,11 +159,16 @@ Joshua Tree 국립공원을 다 구경하고 Las Vegas를 가기 위해 두가�
 주행하다가 로드킬을 하지 않기 위해 속도를 줄이고 상향등을 켜고 달렸다. 중간에 운전자교대를 위해 잠깐 내렸다가 밤하늘에 쏟아지는 별을 보고 탄성을 질렀다.</br>
 잠이 확 깨면서 10분정도 밤하늘을 멍하니 보다가 돌아왔다.
 
+
 #### Las Vegas *
 드디어 라스베가스에 도착했는데 번쩍이는 네온사인들과 화려한 호텔들이 보였다.</br>
 우리는 LasVegas 유명 호텔들이 모여있는 Strip 주변에서 저렴한 HorseShoe라는 호텔에 묵었는데, 저렴하기 때문에 별 기대 안했는데, 방에 들어가니 Sphere가 바로 앞에 보여서 놀랐다.</br>
 HorseShoe 호텔에 묵게 되면 체크인 시 꼭 Sphere view로 달라고 요청하자.</br>
 참고로 라스베가스 대부분 호텔들이 유료 주차로 전환되었다.</br>
+
+![image](https://github.com/user-attachments/assets/0ef867aa-f7a1-4461-a4f0-c5730ac23e34)
+![image](https://github.com/user-attachments/assets/9e5ddfd6-75c1-4530-a859-dde4c7f9b59f)
+
 
 #### Hot-N-Juicy *
 Las Vegas 가면 한국인들이 꼭 가는 식당이라고 해서 가봤다. 새우와 가재와 소시지 등등의 재료와 매콤한 양념을 투명한 비닐팩 안에 버무려서 먹는 음식인데 맛있었다.</br>
@@ -170,6 +182,10 @@ Las Vegas 가면 한국인들이 꼭 가는 식당이라고 해서 가봤다. �
 Antelope Canyon 근처에는 인디언들이 거주하며, 이들이 관광 가이드를 해준다.</br>
 그리고나서 호텔에 돌아오니 밤 21시였다.
 이 모든걸 하루만에 가는 것은 조금 빡셀 수 있다. 여유롭게 움직이고 싶다면 1박2일을 추천한다.
+<img width="911" alt="image" src="https://github.com/user-attachments/assets/a4d3e65f-09ed-40ca-ad0d-2f0d807d7c03">
+<img width="505" alt="image" src="https://github.com/user-attachments/assets/d20bb430-fdd2-4703-be17-61af3c2f1de5">
+
+
 #### Gordon Ramsay Burger * (예약 필요)
 Grand Canyon을 갔다온 후 너무 피곤했지만 라스베가스 맛집을 한 곳이라도 더 들리기 위해 나와서 Gordon Ramsay Burger로 향했다.
 비싸지만 꽤 맛있으니 시간 되면 가보는걸 추천한다.
@@ -200,6 +216,7 @@ CosmoPolitan을 가서 $60를 칩으로 바꿔서 도전해보았다. 몇 판 �
 Wellington Beef (medium-rare) + 랍스터리조또 + 관자요리를 먹었는데 정말 맛있었다.</br>
 미국판 흑백요리사인 Hell’s Kitchen를 보고 먹으면 더 감동적이라고 한다.</br>
 하지만 가격은 매우 사악했다.</br>
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/8ade48b8-b28d-44b3-aa3e-65e80656db4b">
 
 #### Fremont Street Experience *
 Las Vegas Strip 중심으로 새로 생긴 호텔들에 의해 죽어가던 Old Las Vegas를 살리기 위해 생긴 거리.</br>
@@ -222,6 +239,8 @@ San Francisco로 향하기 위해 호텔 체크아웃을 하고 차를 끌고 �
 Death Valley Visitor center를 들려서 entrance fee($30)를 계산할 수 있길래 계산했는데, 이걸 검사하는 곳이 없었다..(?)</br>
 중간중간 Vista Point들이 있어 잠깐 멈춰서 사진을 찍었다.</br>
 사막이라고 해서 완전 모래밖에 없는 사막을 생각했었지만, 그렇진 않았고 풀이 듬성듬성 자라있었다.
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/dd7bdb05-83ec-4e3f-bb04-836497d5fa8d">
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/bc728b74-9dde-401d-8572-6f706755013f">
 
 #### Yosemite Nation Park *
 요세미티에 진입할 때쯤은 17시였는데, 이 땐 이미 주변이 완전히 깜깜해져 있었다. 이 시간이 되니 입구 영업소는 문을 닫아서 입장료를 내지 않아도 됐다(나갈 때 내라고 써있다)</br>
@@ -229,6 +248,7 @@ Death Valley Visitor center를 들려서 entrance fee($30)를 계산할 수 있�
 어두컴컴한 산길을 상향등을 키고 열심히 3시간 달려서 숙소에 도착했다. 원래는 오는 길에 많은 뷰포인트를 구경하고 싶었지만 너무 어두워서 아쉽게 구경하지 못했다. 여행 통틀어서 제일 아쉬운 부분이었다.</br>
 12시간을 운전만 했더니 너무 지친 상태였는데, 뜨거운 물로 샤워를 하고 맥주 한 잔 하니 아주 기분이 좋았다.</br>
 그래도.. 다음날 아침에 샌프란시스코 가는 길에 조금은 구경할 수 있어서 좋았다. 곰을 못 본 건 좀 아쉬웠다. 다음에 요세미티를 올 예정이라면 1박2일 오는 것이 좋겠다.
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/3e28d851-57df-47e4-837f-3fa713d82ed0">
 
 ### Day 8 - 11/08 (Fri)
 #### Visit Google BayView *
@@ -236,6 +256,12 @@ Death Valley Visitor center를 들려서 entrance fee($30)를 계산할 수 있�
 (초대된) 방문자들이 방문할 수 있는 최신 건물이라고 한다. 단, 업무공간은 들어가지 못하고 제한된 구역들만 가볼 수 있다. (그래도 꽤 여러군데 돌아다닐 수 있다)</br>
 들어가봤는데 회사 건물이 무슨 공항처럼 생겼다…</br>
 사내 식당에서 점심을 먹으며 이런저런 얘기들을 들을 수 있었다.
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/a62a8d76-b747-448d-a794-fc3fdaf5f184">
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/001b4f3b-6da4-41e6-a27d-a5a6534f73f6">
+
+#### NASA
+구글 옆에는 NASA도 있었다
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/49874a16-436d-4f0d-b7a8-f20bd6aaa94e">
 
 #### Visit Amazon *
 지인찬스로 Amazon도 방문했다. Visitor 주차는 초대해주신 직원분께서 등록해주시면 무료다.</br>
@@ -244,6 +270,7 @@ Death Valley Visitor center를 들려서 entrance fee($30)를 계산할 수 있�
 감사하게도 저녁식사를 집으로 초대해주셔서 미국 집에도 실제로 가볼 수 있었다.</br>
 부동산 관련해서도 좀 얘기를 나눴는데 팔로알토나 로스알토스 같은 곳은 엄청 비싸긴 했지만, 다른 곳들은 서울 웬만한 아파트와 비슷하거나 조금 비싼 정도라 경제적 부담이 많이 크진 않아보였다.</br>
 한국에서는 ‘주담대 언제 다 갚지.... 다 갚을 수 있나...?’ 느낌이면, 미국도 주담대를 많이 끼고 구매하긴 하지만, ‘몇 년만 열심히 일하면 갚겠군’ 느낌이라고 한다.
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/9cb97e60-96eb-4b3e-b2b8-46066650b16d">
 
 ### Day 9 - 11/09 (Sat)
 #### Spot Hero Mobile App *
@@ -253,6 +280,7 @@ Pier 39 근처에 주차를 하기 위해 Spot Hero라는 앱을 다운받아서
 
 #### Pier 39 *
 Pier 39에 가봤는데 사람들이 꽤 붐볐다. 여기저기 한국어도 들린다. Sea Lion spot이 따로 있어서 찾아가봤는데 많은 바다사자들이 뗏목(?)위에 올라와서 일광욕을 하고 있었다.
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/ea6d7b98-d048-4f73-8862-e59ec4f5cb73">
 
 #### 자전거 대여 *
 자전거를 타고 Golden Gate Bridge - Sausalito까지 가기 위해 자전거를 대여했다. 자전거 대여비용은 하루종일 4만원정도였다.
@@ -261,8 +289,11 @@ Pier 39에 가봤는데 사람들이 꽤 붐볐다. 여기저기 한국어도 �
 
 #### Golden Gate Bridge *
 자전거를 대여해서 Golden Gate Bridge로 향했다. 가는 길에 굉장히 경치가 좋은 곳들이 많이 펼쳐진다. 샌프란시스코를 오면 자전거를 빌려서 가보길 꼭 추천한다.
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/9e46e8dd-f98f-4aed-ab65-7a6ef539120f">
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/6711ad2c-9a2a-4186-a6ea-1f6347a762dc">
 
 #### Sausalito *
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/0dc739c9-32c9-44a2-9312-1adb892fa39b">
 
 
 #### Ferry *
@@ -270,9 +301,13 @@ Sausalito에서 다시 San Francisco로 돌아가야하는데, 다시 자전거�
 Ferry는 웹페이지에서 예약을 할 수 있으며, 자전거를 가지고 탈 수 있다.
 Ferry를 타고 가면서 노을 지는 Golden Gate Bridge와 섬 전체가 감옥인 Alkatraz를 구경할 수 있었다.
 
+<img width="873" alt="image" src="https://github.com/user-attachments/assets/48fff00c-5796-4b46-8228-47bc7849e7fe">
+
 #### Ghiradeli Experience
 기념품을 사기 위해 Ghiradeli Experience를 들러서 초콜릿을 몇 봉지 샀다.
 미국은 딱히 기념품을 살 만한게 없어서 Ghiradeli 초콜릿을 많이 산다고 한다.
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/dcb45a0b-04d3-4ab0-b54d-bb552373df00">
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/646f84df-65b0-44c0-b997-0cf77de4ce15">
 
 ### Day 10 - 11/10 (Sun)
 
@@ -283,6 +318,8 @@ San Francisco의 한 호텔 앞에서 픽업해서, Golden Gate Bridge를 거쳐
 여러 Winery 중 Foley Johnson Winery와 Artesa Vineyards & Winery를 갔다.
 각 와이너리에서 4~5잔의 와인을 시음했다.
 Chardonnay(샤도네이)와 Cabernet Sauvignon (카베르네 소비뇽) 가 향과 맛 모두 좋았다.
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/d0a0b481-ead1-447d-b26b-266175ef2073">
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/420f51cb-1f2a-40ea-adc8-6209fa3bf11b">
 
 #### Union Square
 나파밸리 투어가 끝나고 어두워졌는데, 그냥 호텔 들어가긴 아쉬워서 Union Square 근처를 돌아다녀보았다.
@@ -298,6 +335,7 @@ Chardonnay(샤도네이)와 Cabernet Sauvignon (카베르네 소비뇽) 가 향�
 들어가보니 오피스가 작은 마을같이 꾸며져있었다. 가끔 마크 저커버그를 볼 수 있다고 하는데, 아쉽게 보지 못했다.
 식당이 여러군데 있었고, 여기저기 둘러보다가 점심을 먹으면서 이런저런 이야기를 나누었다.
 점심으로는 쌀국수를 먹었는데, 쌀국수도 맛있었고 같이 먹은 보쌈이 굉장히 맛있었다.
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/e43bc557-40ef-406a-87fa-4aef4fe9a2b0">
 
 #### Visit Airbnb HQ *
 지인찬스로 Meta도 방문했다. 여기는 Street Parking을 해야한다. 주차를 하고 옆에 있는 주차기계로 결제하면 된다.
@@ -315,18 +353,35 @@ Apple Park 외부에 있는 visitor center를 따로 방문했다. 애플 파크
 옆에는 애플 매장과 카페가 있었고, 방금 갔던 사내식당과 비슷한 모습이었다.
 여기서 그 유명한 애플비전을 체험해볼 수 있었지만 굳이 하진 않았다.
 
+<img width="889" alt="image" src="https://github.com/user-attachments/assets/e1c9a600-8f86-41f3-884a-7ae2ff818948">
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/49abd449-5d96-4f77-95c1-bd3b410bfc0a">
+
 #### Big Sur *
 Apple Park Visitor Center에서 2~3시간을 달려 Big Sur로 향했다. 중간에 경치 좋은 곳이 있어서 중간중간 멈춰서 봤는데, 그 중 하나가 유명한 Vista Point였다.
 너무 멋있어서 한 30분정도 머무르며 사진을 찍고 풍경을 감상했다.
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/7eacd93e-903b-48dc-8887-9668ed816dd0">
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/d1e735e1-42c6-4ab4-a97b-d841d132bb00">
 
 ### Day 13 - 11/13 (Wed)
-
-#### Computer History Museum
-
 
 #### Stanford Univ.
 교내에 있는 visitor 주차장을 통해 주차를 했다. (주차할 때 미국 핸드폰 번호가 필요하다)
 Memorial Church, 무슨무슨 Tower, Stanford store 등을 방문했다.
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/12a7c255-f09a-452c-86ea-bdb5a91b5071">
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/15a76cda-32df-4313-a796-19f72c28fbb9">
+<img width="905" alt="image" src="https://github.com/user-attachments/assets/d1d5d531-cbbc-4b19-99a4-2aa4debe38b8">
+
+#### Computer History Museum
+<img width="383" alt="image" src="https://github.com/user-attachments/assets/6267ac63-c219-44c6-ac74-80f6ca93d745">
+<img width="904" alt="image" src="https://github.com/user-attachments/assets/330d55d1-cdd6-4621-9c8c-865671668e3c">
+
+#### Steve Jobs's Apple Garage
+Steve Jobs가 Apple 사업을 시작한 전설의 차고
+<img width="912" alt="image" src="https://github.com/user-attachments/assets/3c70b94b-f303-469c-a4c0-99af4c78ef51">
+
+#### Apple Visitor Center
+<img width="896" alt="image" src="https://github.com/user-attachments/assets/cb7c6093-c1d2-401a-8a79-29e5edd8ff65">
+
 #### 근무 시작
 원래 목요일부터 일하려고 수요일까지 휴가를 썼지만, 시차를 깜빡했다. 한국의 목요일 아침은 미국의 수요일 저녁이었던 것이다.
 ### Day 14 - 11/14 (Thu)
