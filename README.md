@@ -32,9 +32,15 @@ Uber를 타고 **Downtown**에 있는 **Last Bookstore**에 갔다. 오래 되�
 대마냄새를 처음 맡아보고 흠칫했다. 길거리 여기저기서 대마냄새가 난다. 처음 맡아보는 냄새지만 대마냄새라는걸 바로 알 수 있었다. 이후 여행 내내 대마냄새로 고통받았다.</br>
 ‘이런 곳이 미국이라니’ 하면서 충격을 많이 받았다. 특히  [Skid Row](https://maps.app.goo.gl/a9oEyUPk12xwoHLy9) 라는 곳은 절대 가지 말자. (치안이 굉장히 안 좋다고 한다)</br>
 한 번쯤은 가볼만 했다.</br>
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/c73b0e76-9bce-46c4-845c-44778bf9c73e">
+<img width="504" alt="image" src="https://github.com/user-attachments/assets/d944eba7-d23e-4ce1-aaba-2af6b7dc198a">
+<img width="902" alt="image" src="https://github.com/user-attachments/assets/a2a3a165-d811-4ab6-aac2-5e537fb0d0f6">
+
 
 #### Angels Flight
 오르막길을 오르는 오래된 트램이다. 원래는 타볼 수 있지만, 내가 간 날은 시스템 점검중이어서 타보진 못했다.
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/b304aeb7-3565-46c7-9172-97cc62911426">
+<img width="507" alt="image" src="https://github.com/user-attachments/assets/d60b1e81-3c08-44cc-a0ab-5903618998f4">
 
 #### Grand Central Market
 여러 식당이 있었다. 약간 층고 높고 더 넓은 장미상가 느낌..? 사람이 굉장히 많았다.
@@ -44,9 +50,12 @@ Uber를 타고 **Downtown**에 있는 **Last Bookstore**에 갔다. 오래 되�
 
 #### The Broad
 밖에서 건물 구경만 하고 지나갔다
+<img width="908" alt="image" src="https://github.com/user-attachments/assets/f2b7587f-0056-4d56-aaae-2608b5828ee0">
+
 
 #### Walt Disney Hall
 밖에서 건물 구경만 하고 지나갔다
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/977e1941-1b9a-4461-99c0-65ab87f08051">
 
 #### Gloria Molina Grand Park
 근처에 공원이 있어서 잠시 산책을 즐겼다.
@@ -54,6 +63,11 @@ Uber를 타고 **Downtown**에 있는 **Last Bookstore**에 갔다. 오래 되�
 #### R Bar
 Korean Town에 있는 Bar를 찾아보고 리뷰가 높은 곳을 찾아갔다. 20시 이후에 사람들이 많이 모였고, 21시부터 아무나 선곡 신청하고 나와서 노래 부르는 시스템이 있는 신기한 곳이었다.</br>
 처음 보는 외국인들이랑 여행 온 얘기를 하면서 친해졌다.</br>
+할로윈 쯤이라 그런지 코스튬을 입은 사람들도 꽤 보였다.
+
+<img width="678" alt="image" src="https://github.com/user-attachments/assets/ab7c4006-f68d-4ce1-9af9-8e237f61059c">
+<img width="506" alt="image" src="https://github.com/user-attachments/assets/3bbf9394-8da0-4c14-b098-ffa2fe62379e">
+
 
 #### 시차적응
 첫 날엔 시차적응에 실패해서 낮엔 몽롱하고, 밤엔 깊게 잠들지 못하고 계속 깼다. (밑에 나오지만, 약국에서 **멜라토닌**을 사먹는걸 추천한다)
@@ -63,6 +77,11 @@ Korean Town에 있는 Bar를 찾아보고 리뷰가 높은 곳을 찾아갔다. 
 가로수길 느낌이 나는 곳이다. 명품 매장이 많이 들어서있었다. 분위기는 굉장히 평화로운게 Downtown과 완전 딴 판이었다.</br>
 방시혁과 과즙세연이 사진 찍힌 곳에 가서 사진을 찍었다.</br>
 첫 날에는 시차 적응에 실패했어서 둘째날엔 성공하기 위해 약국에 가서 태훈님이 알려주신 **멜라토닌**을 샀다. 덕분에 둘째날 시차적응 성공했다.</br>
+<img width="503" alt="image" src="https://github.com/user-attachments/assets/8a9ea974-bb5b-4835-aab3-151e4987ceac">
+
+#### 테슬라 사이버트럭
+한국에는 출시되지 않은 테슬라 사이버트럭을 실제로 보니 신기했다.
+<img width="864" alt="image" src="https://github.com/user-attachments/assets/c528888d-b6ce-4888-8b06-61eb00e3074c">
 
 #### Greystone mansion
 잘 가꿔진 정원과 저택이다. 무료 입장 가능하며(유료구역도 있다), 산책하기 좋다.
@@ -72,6 +91,8 @@ Getty 재단에서 지은 미술관 + 정원이다. 무료이지만 홈페이지
 많은 미술작품과 잘 가꿔놓은 정원이 있는데 정원이 굉장히 예뻤다.</br>
 정원에는 오리가 굉장히 많았다 (50~70마리 정도..?) 어디선가 오리가 계속 날아오는데 어디서 날아오는지 알 수가 없었다.</br>
 루프탑에서는 LA가 내려다보였는데 탁트여있어서 5분간 멍때리고 있었다.
+<img width="909" alt="image" src="https://github.com/user-attachments/assets/81ff698d-f993-4b4e-9e52-5f1884141c6f">
+
 
 #### Santa Monica Pier *
 해 질 즈음에 Santa Monica Pier로 향했다. 마침 노을이 지고 있었는데, 한 10분동안 멍때리고 보고 있었다.</br>
